@@ -1,0 +1,13 @@
+pandas==2.3.3
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+statsmodels>=0.14
+pmdarima>=2.0
+scikit-learn>=1.4
+xgboost>=2.0
+tensorflow>=2.16
+pyarrow>=15.0
+psutil>=5.9
+tqdm>=4.66
+pyyaml>=6.0
